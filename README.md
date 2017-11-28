@@ -2,6 +2,6 @@
 
 ### An extraction based automatic text summarizer and text categorizer.
 ### Team Members:
-###1. Purvank Patel
-###2. Shubham Mehta
-###3. Ilesh Gajjar
+### 1. Purvank Patel
+### 2. Shubham Mehta
+### 3. Ilesh Gajjar
